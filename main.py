@@ -47,7 +47,7 @@ async def 송인준(ctx):
 
 @bot.command()
 async def 명령어(ctx):
-    embed = discord.Embed(title="명령어 종류", description="명령어의 종류는 아래와 같습니다.", color=0x0aa40f)
+    embed = discord.Embed(title="명령어 종류",url="https://github.com/soopeach/sooBot", description="명령어의 종류는 아래와 같습니다.", color=0x0aa40f)
     embed.add_field(name="따라하기", value="입력 받은 텍스트를 봇이 따라합니다.\n", inline=False)
     embed.add_field(name="저녁골라줘 / 저녁", value="저녁이 고민될 땐? 저녁골라줘를 사용해보세요.\n", inline=False)
     embed.add_field(name="안녕 / 인사 / hello", value="봇이 인사해줍니다.\n", inline=False)
