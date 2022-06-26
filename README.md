@@ -18,7 +18,7 @@ Discord Bot by Py
 
 ### 안녕 / 인사 / hello 
 명령어를 호출한 사람에게 봇이 인사를 해줍니다.
-<details><summary>사용 예시 보기</summary></details>
+<details><summary>사용 예시 보기</summary><img width="225" alt="Screen Shot 2022-06-26 at 2 47 21 PM" src="https://user-images.githubusercontent.com/90144041/175801240-79b151e6-6b9c-48c9-a49c-b193fcc8f04c.png"></details>
 
 ### 가위바위보 
 공백을 기준으로 명령어 뒤에 가위, 바위, 보 중 하나를 내고 로봇과 가위바위보를 진행합니다.
